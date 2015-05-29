@@ -744,7 +744,7 @@ msgstr "Esta oferta laboral ha expirado"
 
 #: templates/content-single-job_listing.php:22
 msgid "This position has been filled"
-msgstr "Esta oferta  ya ha sido complet"
+msgstr "Esta oferta ya ha sido completada"
 
 #: templates/form-fields/file-field.php:6
 msgid "remove"
@@ -766,7 +766,7 @@ msgstr "Postular al trabajo"
 msgid ""
 "To apply for this job <strong>email your details to</strong> <a "
 "class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
-msgstr "Para postural a ésta oferta laboral <strong>envier un email a</strong> <a class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
+msgstr "Para postular a ésta oferta laboral <strong>envie un email a</strong> <a class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
 
 #: templates/job-application.php:14
 msgid "Apply using webmail: "
@@ -782,7 +782,7 @@ msgstr "Para postular a esta oferta laboral visitar la URL: <a href=\"%1$s\">%1$
 msgid ""
 "Your job listings are shown in the table below. Expired listings will be "
 "automatically removed after 30 days."
-msgstr "Sus ofertas laborales se muestran en la tabla abajo. La oferta expirada será removida automáticamente después de 30 días."
+msgstr "Sus ofertas laborales se muestran en la tabla de abajo. La oferta expirada será removida automáticamente después de 30 días."
 
 #: templates/job-dashboard.php:6
 msgid "Job Title"
