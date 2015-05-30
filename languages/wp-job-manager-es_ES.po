@@ -150,7 +150,7 @@ msgstr "¿Destacar?"
 #: includes/admin/class-wp-job-manager-cpt.php:262
 #: includes/class-wp-job-manager-shortcodes.php:163
 msgid "Filled?"
-msgstr "Aplicado?"
+msgstr "¿Aplicado?"
 
 #: includes/admin/class-wp-job-manager-cpt.php:263
 msgid "Actions"
@@ -196,7 +196,7 @@ msgstr "Eliminar "
 #: includes/class-wp-job-manager-post-types.php:180
 #: includes/class-wp-job-manager-post-types.php:240
 msgid "Job Listings"
-msgstr "Ofertas laborales"
+msgstr "Listado de trabajos"
 
 #: includes/admin/class-wp-job-manager-settings.php:48
 msgid "Listings Per Page"
@@ -204,23 +204,23 @@ msgstr ""
 
 #: includes/admin/class-wp-job-manager-settings.php:49
 msgid "How many listings should be shown per page by default?"
-msgstr ""
+msgstr "¿Cuántos anuncios por página se deberían mostrar por defecto?"
 
 #: includes/admin/class-wp-job-manager-settings.php:55
 msgid "Filled Positions"
-msgstr ""
+msgstr "Puestos ocupados"
 
 #: includes/admin/class-wp-job-manager-settings.php:56
 msgid "Hide filled positions"
-msgstr "Esconder las ofertas laboras"
+msgstr "Ocultar puestos ocupados"
 
 #: includes/admin/class-wp-job-manager-settings.php:57
 msgid "If enabled, filled positions will be hidden from archives."
-msgstr ""
+msgstr "Si se activa, los puestos ocupados se ocultarán de los archivos."
 
 #: includes/admin/class-wp-job-manager-settings.php:64
 msgid "Expired Listings"
-msgstr ""
+msgstr "Puestos expirados"
 
 #: includes/admin/class-wp-job-manager-settings.php:65
 msgid "Hide content within expired listings"
@@ -755,7 +755,7 @@ msgstr "ubicado en  &ldquo;%s&rdquo;"
 
 #: includes/class-wp-job-manager-ajax.php:131
 msgid "Showing all %s"
-msgstr ""
+msgstr "Mostrando todos los %s"
 
 #: includes/class-wp-job-manager-geocode.php:141
 msgid "No results found"
@@ -773,7 +773,7 @@ msgstr "Error de geocodificación"
 
 #: includes/class-wp-job-manager-install.php:58
 msgid "Employer"
-msgstr "Empresa"
+msgstr "Empleador"
 
 #: includes/class-wp-job-manager-post-types.php:64
 #: includes/forms/class-wp-job-manager-form-submit-job.php:146
@@ -805,7 +805,7 @@ msgstr "Todo %s"
 #: includes/class-wp-job-manager-post-types.php:137
 #: includes/class-wp-job-manager-post-types.php:192
 msgid "Parent %s"
-msgstr "Patriente %s"
+msgstr "Pariente %s"
 
 #: includes/class-wp-job-manager-post-types.php:92
 #: includes/class-wp-job-manager-post-types.php:138
